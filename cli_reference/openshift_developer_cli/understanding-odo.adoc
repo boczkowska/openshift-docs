@@ -22,6 +22,7 @@ Existing tools such as `oc` are more operations-focused and require a deep under
 * Detects changes to local code and deploys it to the cluster automatically, giving instant feedback to validate changes in real time.
 * Lists all the available components and services from the {product-title} cluster.
 
+
 == Core concepts
 
 Project::
@@ -84,3 +85,4 @@ fuse7-eap-openshift       openshift     1.3
 ----------------------------------------------------
 +
 The `TAGS` column represents the available image versions, for example, `10` represents the `rhoar-nodejs/nodejs-10` container image.
+
