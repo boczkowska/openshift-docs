@@ -6,16 +6,12 @@
 
 = Installing {odo-title} on macOS
 
-== Binary installation
+. Go to the web console of the cluster and click `? on the top right corner, select `Command Line Tools` from the drop-down menu
+. Go to `odo - Developer focused...`, click `Download odo`.
+. Download the `odo-darwin-amd64` file and save it to `/usr/local/bin/odo`. 
 
+. Make the file executable:
++
 ----
-# curl -L https://mirror.openshift.com/pub/openshift-v4/clients/odo/latest/odo-darwin-amd64 -o /usr/local/bin/odo
-# chmod +x /usr/local/bin/odo
-----
-
-== Tarball installation
-
-----
-# sh -c 'curl -L https://mirror.openshift.com/pub/openshift-v4/clients/odo/latest/odo-darwin-amd64.tar.gz | gzip -d > /usr/local/bin/odo'
-# chmod +x /usr/local/bin/odo
+$ chmod +x /usr/local/bin/odo
 ----

@@ -6,9 +6,9 @@
 
 = Installing {odo-title} on Windows
 
-== Binary installation
-
-. Download the latest link:https://mirror.openshift.com/pub/openshift-v4/clients/odo/latest/odo-windows-amd64.exe[`odo.exe`] file.
+. Go to the web console of the cluster and click `? on the top right corner, select `Command Line Tools` from the drop-down menu
+. Go to `odo - Developer focused...`, click `Download odo`.
+. Download the `odo-windows-amd64.exe` file and save it to the directory of your preference.
 . Add the location of your `odo.exe` to your `GOPATH/bin` directory.
 
 [discrete]
