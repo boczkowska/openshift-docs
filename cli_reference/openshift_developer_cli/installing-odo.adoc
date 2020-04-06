@@ -12,6 +12,9 @@ The following section describes how to install `{odo-title}` on different platfo
 Currently, `{odo-title}` does not support installation in a restricted network environment.
 ====
 
+.Prerequisite
+
+* You have a running {product-title} cluster. Developers can use link:https://cloud.redhat.com/openshift/install/crc/installer-provisioned?intcmp=7013a000002CtetAAC[CodeReady Containers (CRC)] to deploy a local {product-title} cluster quickly.
 
 include::modules/openshift-developer-cli-installing-odo-on-linux.adoc[leveloffset=+1]
 
