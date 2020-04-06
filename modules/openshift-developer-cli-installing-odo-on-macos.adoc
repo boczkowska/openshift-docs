@@ -6,7 +6,7 @@
 
 = Installing {odo-title} on macOS
 
-. Go to the web console of the cluster and click `? on the top right corner, select `Command Line Tools` from the drop-down menu
+. Go to the web console of the cluster and click `?` in the top right corner, select `Command Line Tools` from the drop-down menu
 . Go to `odo - Developer focused...`, click `Download odo`.
 . Download the `odo-darwin-amd64` file and save it to `/usr/local/bin/odo`. 
 
