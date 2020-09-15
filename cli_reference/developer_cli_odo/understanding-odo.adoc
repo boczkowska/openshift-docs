@@ -50,7 +50,7 @@ In `{odo-title}`, services are provisioned from the OpenShift Service Catalog an
 |amd64, s390x
 
 |
-|https://catalog.redhat.com/software/containers/rhscl/nodejs-12-rhel7/[rhscl/nodejs-12-rhel7]
+|https://access.redhat.com/containers/#/registry.access.redhat.com/rhscl/nodejs-12-rhel7[rhscl/nodejs-12-rhel7]
 |NPM
 |amd64, s390x
 
@@ -60,12 +60,12 @@ In `{odo-title}`, services are provisioned from the OpenShift Service Catalog an
 |amd64
 
 |
-|https://registry.centos.org/centos/nodejs-10-centos7/latest[centos/nodejs-10-centos7]
+|https://github.com/sclorg/s2i-nodejs-container[centos/nodejs-10-centos7]
 |NPM
 |amd64
 
 |
-|https://hub.docker.com/r/centos/nodejs-12-centos7[centos/nodejs-12-centos7]
+|https://github.com/sclorg/s2i-nodejs-container[centos/nodejs-12-centos7]
 |NPM
 |amd64
 
